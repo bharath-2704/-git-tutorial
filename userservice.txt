@@ -2,3 +2,4 @@ get the user data
  process the data
 
   create an avatar for the usergit status
+    the avatar will be the dyanamic one
